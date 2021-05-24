@@ -1,0 +1,22 @@
+{
+  "name": "@danielwerg/tsconfig",
+  "version": "0.0.0",
+  "description": "Shared TypeScript config",
+  "author": "Daniel Werg",
+  "license": "MIT",
+  "repository": "danielwerg/tsconfig",
+  "main": "tsconfig.json",
+  "engines": {
+    "node": ">=12"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "typescript",
+    "ts",
+    "tsconfig",
+    "config",
+    "configuration"
+  ]
+}
