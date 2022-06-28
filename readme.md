@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-$ yarn add -D @danielwerg/tsconfig
+yarn add -D @danielwerg/tsconfig
 ```
 
 ## Usage
