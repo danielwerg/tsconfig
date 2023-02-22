@@ -7,7 +7,7 @@
   "repository": "danielwerg/tsconfig",
   "main": "tsconfig.json",
   "engines": {
-    "node": ">=12"
+    "node": ">=16"
   },
   "files": [
     "tsconfig.json"
