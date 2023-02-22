@@ -1,6 +1,6 @@
 {
   "name": "@danielwerg/tsconfig",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Shared TypeScript config",
   "author": "Daniel Werg",
   "license": "MIT",
